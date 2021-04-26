@@ -4,7 +4,7 @@ import Layout from "../components/Layout";
 const Index = () => {
   return (
     <Layout pageTitle="My blog">
-      <h1>ブログ投稿のテスト</h1>
+      <h1>ブログ投稿のテストですよ</h1>
     </Layout>
   );
 };
